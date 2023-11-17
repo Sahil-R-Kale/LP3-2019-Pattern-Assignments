@@ -1,0 +1,1 @@
+# LP3-2019-Pattern-Assignments
