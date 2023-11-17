@@ -1,0 +1,28 @@
+Create:
+{
+	"string name": "Sahil"
+}
+Read ID:
+{
+	"0": "uint256: 0",
+	"1": "string: Sahil"
+}
+Update:
+{
+	"uint256 id": "0",
+	"string name": "Jay"
+}
+Read ID:
+{
+	"0": "uint256: 0",
+	"1": "string: Jay"
+}
+Delete:
+{
+	"uint256 id": "0"
+}
+Read ID:
+{
+	"0": "uint256: 0",
+	"1": "string: "
+}
